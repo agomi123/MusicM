@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
-<img src='https://drive.google.com/file/d/1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN/view?usp=share_link'></img>
+<a href="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN"><img src="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  
+  
