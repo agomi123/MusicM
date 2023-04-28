@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<a href="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN"><img src="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN" style="width: 650px; max-width: 100%; height:100px;" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN"><img src="https://drive.google.com/uc?export=view&id=1JYVdqjyDmDRwpx-x8Lw5D3BrAf4_J2NN" style="width: 200px; max-width: 100%; height:200px;" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1JWz-DuYD2VpWOyVVW9huN_6ql4WsV4Nd"><img src="https://drive.google.com/uc?export=view&id=1JWz-DuYD2VpWOyVVW9huN_6ql4WsV4Nd" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1JN9OyUaoywwUAH5ah2a-AcoI_7kw8Mlb"><img src="https://drive.google.com/uc?export=view&id=1JN9OyUaoywwUAH5ah2a-AcoI_7kw8Mlb" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 <a href="https://drive.google.com/uc?export=view&id=1JKv8HJwrG3rbQ_JvmldhWYLUta7gJX0a"><img src="https://drive.google.com/uc?export=view&id=1JKv8HJwrG3rbQ_JvmldhWYLUta7gJX0a" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
